@@ -2,3 +2,4 @@ Nothing new because i already knew GIT
 git diff --staged
 Edited but not commit
 Another day has gon
+Changed
